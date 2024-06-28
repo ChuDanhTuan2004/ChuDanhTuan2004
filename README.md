@@ -6,7 +6,7 @@
 
 # 📊 GitHub Stats:
 
-<div style="width: 100%;">
+<div style="width: 100%; height: 50%;">
   <img src="https://github-readme-stats.vercel.app/api?username=ChuDanhTuan2004&theme=default&hide_border=false&include_all_commits=true&count_private=true" style="width: 100%;"/>
 </div>
 <div style="width: 100%;">
