@@ -1,5 +1,4 @@
 ## Hi there 👋
-# 💫 About Me:
 🌱 I’m currently learning at CodeGym Thành Đô<br>💬 Ask me about the basics of CSS and Tailwind coding !<br>⚡ Fun fact: I'm good at coding but rarely push personal code to git :>
 
 
