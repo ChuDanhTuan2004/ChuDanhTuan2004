@@ -1,8 +1,10 @@
-### 👋 Hello there! I'm an Enthusiastic Programmer 💻
+### 👋 Hello there! I'm Tuấn 💻
 
-I'm passionate about turning ideas into reality through the power of code. 🌟 Whether it's building robust web applications, crafting efficient algorithms, or diving into the latest tech trends, I'm always eager to learn and explore. 🚀
+I'm passionate about turning ideas into reality through the power of code. 
+🌟 Whether it's building robust web applications, crafting efficient algorithms, or diving into the latest tech trends, I'm always eager to learn and explore. 🚀
 
-With a creative mindset and a knack for solving complex problems, I love collaborating with others to develop innovative solutions that make a real impact. 💡 In my spare time, you'll find me experimenting with new programming languages, contributing to open source, or simply enjoying a cup of coffee while brainstorming my next big idea. ☕
+With a creative mindset and a knack for solving complex problems, I love collaborating with others to develop innovative solutions that make a real impact. 
+💡 In my spare time, you'll find me experimenting with new programming languages, contributing to open source, or simply enjoying a cup of coffee while brainstorming my next big idea. ☕
 
 Let's connect and create something amazing together! ✨
 
