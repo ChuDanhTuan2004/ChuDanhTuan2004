@@ -54,8 +54,6 @@ When I'm not coding, you’ll probably find me exploring new tech trends ☕ or 
 
 ---
 
----
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ChuDanhTuan2004&icon=0&color=6" />
 </p>
