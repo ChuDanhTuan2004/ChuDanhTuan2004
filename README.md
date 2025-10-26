@@ -47,7 +47,7 @@ When I'm not coding, you’ll probably find me exploring new tech trends ☕ or 
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChuDanhTuan2004&theme=onedark&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChuDanhTuan2004&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
